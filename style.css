@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: 'Island Moments', cursive;
+    font-size: 48px;
+}
